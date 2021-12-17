@@ -1,0 +1,60 @@
+header{
+    width: 90%;
+    margin: 30px 5%;
+    overflow: hidden;
+}
+.logo{width: 20%;float: left;}
+.menu{
+    
+width: 40%;
+    
+
+    
+float: right;
+}
+.menu ul{
+margin: 0;
+padding: 0;
+list-style: none;
+}
+.menu ul li{
+float: left;
+margin: 0 45px 0 0;
+
+}
+a{ 
+    text-decoration: none;
+    color: black;
+}
+.slider{ 
+    width: 90%;
+    margin: 80px 5%;
+}
+.slider img{ width: 100%;
+} 
+.photodiary {
+    width: 90%;
+    margin: 20px 5%;
+}
+.photodiary h6{
+    
+}
+.photodiaryhone{
+    margin-bottom: 50px;
+}
+.itemFirst{
+    width: 90%;
+    margin: 80px 5%;
+}
+.itemone{
+float: left;
+width: 45%;
+
+}
+.itemtwo{
+float: right;
+width: 45%;
+
+}
+.itemone img{ width: 100%;}
+.itemtwo img{ width: 100%;}
